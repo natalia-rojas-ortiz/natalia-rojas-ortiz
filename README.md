@@ -1,36 +1,37 @@
-# 👋 ¡Hola! Soy Natalia Rojas
+# 👋 Hi! I'm Natalia Rojas
 
-🎓 **Project Manager** | 📊 **Estudiante de Maestría en Ciencia de Datos** | 💻 Apasionada por la tecnología, la gestión y el aprendizaje continuo
-
----
-
-## ✨ Sobre mí
-
-Soy una profesional en Administración de Empresas con experiencia liderando proyectos tecnológicos bajo metodologías ágiles como **Scrum**. Actualmente curso una **Maestría en Ciencia de Datos** para potenciar mis habilidades analíticas y seguir creciendo en el mundo tech.
-
-Me interesa resolver problemas con una mirada integral, combinando herramientas digitales, trabajo en equipo y pensamiento estratégico.
+🎓 **Project Manager** | 📊 **Master’s Student in Data Science** | 💻 Passionate about technology, project management, and continuous learning
 
 ---
 
-## 🧰 Tecnologías y herramientas
+## ✨ About Me
 
-- 📋 Gestión de proyectos: Trello, Azure DevOps, Scrum
-- 📊 Análisis de datos: Power BI, Excel
-- 🛠️ Desarrollo web: Shopify, React.js, Vite.js, TailwindCSS
-- 🔄 Otros: SAP FI, migración de datos, atención postventa
+I'm a Business Administration professional with experience leading tech projects using **agile methodologies** like **Scrum**. I'm currently pursuing a **Master's in Data Science** to strengthen my analytical skills and grow further in the tech world.
 
----
-
-## 🚀 Aspiraciones
-
-Quiero seguir aprendiendo, colaborar en proyectos de impacto y conectar la gestión con el análisis de datos para tomar mejores decisiones. Me emociona construir soluciones que realmente ayuden a las personas.
+I'm passionate about solving problems with an integral approach, combining digital tools, teamwork, and strategic thinking.
 
 ---
 
-## 📫 Conectemos
+## 🧰 Skills & Tools
+
+- 📋 Project management: Trello, Azure DevOps, Scrum
+- 📊 Data analysis: Power BI, Excel
+- 🛠️ Web development: Shopify, React.js, Vite.js, TailwindCSS
+- 🔄 Others: SAP FI, data migration, post-sales support
+
+---
+
+## 🚀 Aspirations
+
+I aim to keep learning, collaborate on meaningful projects, and bridge the gap between management and data analytics to support better decision-making. I'm excited to build solutions that truly help people.
+
+---
+
+## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/natalia-rojas-ortiz)
 - 📧 nataliarojasco22@gmail.com
+
 
 
 <!--
